@@ -1,5 +1,4 @@
 # Hacktoberfest_2022
-# HacktoberFest 2022
 Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR). GitHub hosts many open source repositories that contribute to Microsoft Learn content.
 
 # Submit your PR on this new repo [Hacktoberfest](https://github.com//Pavithra-ks-06/Hacktoberfest_2022), There we are merging all PR. 
