@@ -1,12 +1,12 @@
 # Hacktoberfest_2022
 Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR). GitHub hosts many open source repositories that contribute to Microsoft Learn content.
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com//Pavithra-ks-06/Hacktoberfest_2022), There we are merging all PR. 
+# Submit your PR on this new repo [Hacktoberfest](https://github.com//Pavithra-ks-06/Hacktoberfest_2022), There we are merging all the PRs (if found valid). 
 
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 💙 !!**
 
-P.S. Star ⭐ and Share this repository, if you had fun!! 😍
+P.S. Star ⭐ and Share this repository, if you had fun!!
 
 Hacktoberfest 2022
 ![Event Completed](https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg)
@@ -20,14 +20,14 @@ Hacktoberfest 2022
 
 # Contribution Rules📚:
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
+- You are not allowed to make pull requests that break the rules.
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
 - Try to keep pull requests small to minimize merge conflicts
 
 
-## Getting Started 🤩🤗:
+## Getting Started 🤩:
 
 - Fork this repo (button on top)
 - Clone on your local machine
